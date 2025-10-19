@@ -12,6 +12,14 @@ The model uses **LightGBM**, a high-performance gradient boosting framework, and
 
 ---
 
+## 🔗 Live Demo
+
+🚀 **Try the App Here:** [Streamlit App](https://credit-fraud-detection-systemm.streamlit.app/)
+
+*(Click the link above to open the deployed web app)*
+
+---
+
 ## 🧠 Key Features
 
 - Real-time **fraud detection** based on user input  
