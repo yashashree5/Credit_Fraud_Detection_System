@@ -43,10 +43,11 @@ The model uses **LightGBM**, a high-performance gradient boosting framework, and
 ---
 
 ## 🗂️ Project Structure
-Credit_Card_Fraud_Detection/
-├── app.py                      # Streamlit app script
-├── fraud_detection_model.jb    # Trained LightGBM model
-├── label_encoders.jb           # Encoders for categorical variables
-├── requirements.txt            # Dependencies
-└── README.md                   # Project documentation
-
+```
+📂 Credit_Card_Fraud_Detection/
+│   ├── app.py                      # Streamlit app script
+│   ├── fraud_detection_model.jb    # Trained LightGBM model
+│   ├── label_encoders.jb           # Encoders for categorical variables
+|   ├── requirements.txt            # Dependencies
+|   ├── README.md                   # Project documentation
+```
